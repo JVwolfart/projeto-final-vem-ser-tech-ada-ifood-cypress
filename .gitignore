@@ -1,0 +1,8 @@
+node_modules
+dist
+coverage
+**/node_modules
+**/coverage
+**/dist
+**/*sqlite
+desktop.ini
